@@ -7,7 +7,7 @@ class Program
 {
     static void Main()
     {
-        // Задаем размер массива
+        
         int[] array = new int[10];
         Random rnd = new Random();
         int counter = 0;
