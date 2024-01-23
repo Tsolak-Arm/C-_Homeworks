@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\task2\\task2.csproj": {}
+    "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\Task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\task2\\task2.csproj": {
+    "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\Task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\Task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\Task2\\task2.csproj",
         "packagesPath": "C:\\Users\\ՑՈԼԱԿ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\task2\\obj\\",
+        "outputPath": "C:\\Users\\ՑՈԼԱԿ\\Desktop\\C_SHARP_HOMEWORKS\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ՑՈԼԱԿ\\AppData\\Roaming\\NuGet\\NuGet.Config"
